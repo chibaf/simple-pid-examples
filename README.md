@@ -7,3 +7,5 @@ python3 -m pip install simple-pid
 ## ref
 
 m-lundberg/simple-pid: A simple and easy to use PID controller in Python  https://github.com/m-lundberg/simple-pid
+
+simple-pid · PyPI  https://pypi.org/project/simple-pid/
